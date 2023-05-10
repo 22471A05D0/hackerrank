@@ -1,0 +1,1 @@
+print(yochi&munni)
